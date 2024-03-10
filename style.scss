@@ -272,10 +272,6 @@ nav {
 }
 
 .wrapper-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
@@ -283,6 +279,10 @@ nav {
 }
 
 footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   padding: 20px 0;
   text-align: center;
 }
