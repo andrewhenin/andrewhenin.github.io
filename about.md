@@ -11,4 +11,4 @@ In terms of professional experience, I have worked at [Duolingo](https://www.duo
 
 I'm a self-taught web and Android developer. I do both backend and frontend. I'm obsessed with anything that has "systems" or "architecture" in it. I am currently open to collaborating on projects.
 
-Send me an [email](mailto:andrewhenin25@gmail.com) or say hi over [LinkedIn](https://www.linkedin.com/in/andrewhenin/)!
+Send me an email at [andrewhenin25@gmail.com](mailto:andrewhenin25@gmail.com) or say hi over [LinkedIn](https://www.linkedin.com/in/andrewhenin/)!
